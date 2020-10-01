@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
-@TeleOp(name= "GhostToast")
+@TeleOp //(name= "insertname")
 public class TeleDraft extends OpMode {
 
     RoboMethods robot = new RoboMethods();
